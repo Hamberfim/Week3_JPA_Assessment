@@ -1,2 +1,2 @@
-# Week3_JPA_Assessment
-project that utilizes JPA classes and database
+### CIS175 Week3 JPA Assessment
+#### Project that utilizes JPA classes and database
