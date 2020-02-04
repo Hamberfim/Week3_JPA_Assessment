@@ -68,8 +68,8 @@ public class StartProgram {
 
 				ListItem toEdit = lih.searchForItemById(idToEdit);
 				System.out.println("Retrieved " + toEdit.getModel() + " from " + toEdit.getMaker() + " category type of " + toEdit.getCategory());
-				System.out.println("1 : Update Model");
-				System.out.println("2 : Update Maker");
+				System.out.println("1 : Update Maker");
+				System.out.println("2 : Update Model");
 				System.out.println("3 : Update Category Type");
 				int update = in.nextInt();
 				in.nextLine();
