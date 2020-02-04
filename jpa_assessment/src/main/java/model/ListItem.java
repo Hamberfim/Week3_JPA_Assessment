@@ -1,4 +1,3 @@
-//stopped on page 7 "Create a way to work with your entity" of Introduction to JPA Instructions.pdf
 
 package model;
 
@@ -65,7 +64,7 @@ public class ListItem {
 	}
 	
 	public String returnItemDetails() {
-		return maker + " - " + model + ": " + category;
+		return maker + ", " + model + " " + category;
 	}
 	
 }
